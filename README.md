@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 LPTv — Native Android TV & Mobil Canlı TV / Radyo Oynatıcı
+# 📺 LPTv — Android TV & Mobil Canlı TV / Radyo Oynatıcı
 
 **Reklamsız, hesapsız, takip içermeyen; Android TV kumandası ve dokunmatik cihazlar için sıfırdan tasarlanmış yüksek performanslı native medya deneyimi.**
 
