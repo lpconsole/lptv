@@ -65,17 +65,6 @@
 > [!NOTE]
 > `v1.0.0` ile birlikte resmi paket adı **`com.lpconsole.lptv`** olarak güncellenmiştir. Eski sürümlerden (`v0.2.8` ve öncesi) geçişte temiz kurulum önerilir.
 
-### Yerel Derleme (Debug APK)
-
-```powershell
-cmd /c gradlew.bat assembleDebug --console=plain
-```
-
-Çıktı konumu:
-```text
-app/build/outputs/apk/debug/app-debug.apk
-```
-
 ---
 
 ## 🔄 Uygulama İçi Güncelleme Sistemi
