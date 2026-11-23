@@ -88,9 +88,4 @@ Uygulama, GitHub Releases üzerinden sunulan `update.json` manifestini kontrol e
 
 ---
 
-## 🌐 Veri Kaynakları
-
-- **TV Kanalları:** [`iptv-org`](https://iptv-org.github.io)
-- **Radyo İstasyonları:** [`Radio Browser API`](https://www.radio-browser.info)
-
 > *Bu uygulama kendi sunucularında medya içeriği barındırmaz; yalnızca herkese açık API'lerden gelen yayın akışlarını oynatır.*
