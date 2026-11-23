@@ -17,4 +17,4 @@
 
 ### 📥 En Son Sürümü İndir (Latest Release)
 
-[![En Son Sürümü İndir](https://img.shields.io/github/v/release/lpconsole/mediator?style=for-the-badge&logo=android&logoColor=black&color=00E676&label=%C4%B0ndir%20(APK))](https://github.com/lpconsole/mediator/releases/latest/download/app-release.apk)
+[![En Son Sürümü İndir](https://img.shields.io/github/v/release/lpconsole/lptv?style=for-the-badge&logo=android&logoColor=black&color=00E676&label=%C4%B0ndir%20(APK))](https://github.com/lpconsole/lptv/releases/latest/download/app-release.apk)
